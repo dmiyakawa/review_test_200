@@ -1,0 +1,8 @@
+specs:
+  - pdf-default
+  - name: pdf-nofont
+    rule_name: pdf
+    out_font: none
+  - name: pdf-ipa
+    rule_name: pdf
+    out_font: ipa
